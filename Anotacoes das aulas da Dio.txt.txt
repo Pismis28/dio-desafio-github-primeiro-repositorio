@@ -1,0 +1,15 @@
+Commits sao os objetos dos gits que dao um significado a alteracoes.
+
+
+Git init - cria uma pagina gerencial do git (porem é um arquivo oculto) para mostrar esses arquivos ocultos: ls -a
+
+Git config --global user.email "tie..."
+Git config --global user.name "Pismis28"
+
+Git add* - add tudo
+
+Git commit -m "commit inicial"
+
+Git push origin master - envia os codigos da maquina para o github.
+
+Git clone -tras os codigos do github para o seu pc.
